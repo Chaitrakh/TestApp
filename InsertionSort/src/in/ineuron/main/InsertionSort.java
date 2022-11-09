@@ -5,7 +5,7 @@ public class InsertionSort
 {
   public static void main(String[] args)
   {
-      int[] ar = {7,5,2,3,1,4,6};
+      int[] ar = {5,8,9,0,6,7};
 
       //apply insertion sort algorithm on the array
       //to sort current index value be comparing with previous indexes value
